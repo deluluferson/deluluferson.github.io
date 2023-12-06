@@ -8,4 +8,4 @@ ralph julius velasco
 
 # Setter
 The setter is the main contributor to the offense of the volleyball team. One of the requirements of the setter is having a delicate touch to set the ball perfectly for one of the attacking players. Communication is extremely important for the setter because they need to get the rest of the players on the same page. Without the setter, there wouldn’t be hard spikes or technical ball movement.
-https://www.pakmen.com/wp-content/uploads/2021/02/dsc_5589_40807232215_o-scaled-e1612814753999.jpg
+![setter](https://www.pakmen.com/wp-content/uploads/2021/02/dsc_5589_40807232215_o-scaled-e1612814753999.jpg)
