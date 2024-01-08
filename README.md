@@ -1,8 +1,9 @@
 theme: jekyll-theme-hacker
 
 ralph julius velasco
+# Top 6 Volleyball Position ;-;
 
-# # bbbb
+                                                     
 # Setter
 The setter is the main contributor to the offense of the volleyball team. One of the requirements of the setter is having a delicate touch to set the ball perfectly for one of the attacking players. Communication is extremely important for the setter because they need to get the rest of the players on the same page. Without the setter, there wouldn’t be hard spikes or technical ball movement.
 ![setter](https://www.pakmen.com/wp-content/uploads/2021/02/dsc_5589_40807232215_o-scaled-e1612814753999.jpg)
@@ -17,4 +18,4 @@ Also known as the right-side hitter, these players need to be a perfect balance 
 
 # middle blocker
 The middle blocker, sometimes known as the middle hitter, is the tallest player on the volleyball team. Their main role for the team is being the first line of defense against the opposing team’s hits. The middle blocker needs to read the other team’s attackers to quickly raise his or her arms above the net in a blocking attempt. However, this is not a defense-only position. The middle blocker will have chances for quick points throughout the set.
-
+![](https://c8.alamy.com/comp/F3R40A/turin-italy-11th-oct-2015-tillie-7-outside-spiker-nicolas-le-goff14-F3R40A.jpg)
